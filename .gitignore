@@ -10,7 +10,7 @@ local/
 cpanfile.snapshot
 vender/
 .buildpath
-.idea/
+.idea/*
 .bundle/
 graph/*.png
 conf/conf.json
