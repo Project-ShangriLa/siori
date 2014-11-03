@@ -1,0 +1,26 @@
+{
+	"anime_api_server" : {
+		"url" : "localhost",
+		"port" : 3000,
+		"base" : "bases",
+		"rank" : "amazon_blue_ray_rank_hsts",
+		"raw_rank" : "amazon_blue_ray_ranks"
+	},
+	"Twitter" : {
+		"consumer_key" : "",
+		"consumer_secret" : "",
+		"access_token" : "",
+		"access_token_secret" : ""
+	},
+	"MongoDB" : {
+		"exec" : false,
+		"database" : "amazon_ranking",
+		"collection_status" : "armazon_ranking_status",
+		"collection_hist" : "amzon_ranking_hist"
+	},
+	"Amazon" : {
+	    "associate_tag": "",
+   		"AWS_access_key_id": "",
+   		"AWS_secret_key": ""
+	}
+}
